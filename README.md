@@ -2,6 +2,10 @@
 
 Este é um projeto de dashboard desenvolvido para acompanhar e visualizar o progresso em relação a diferentes metas e objetivos. O dashboard é construído utilizando a biblioteca Streamlit para Python e oferece uma interface interativa para explorar e analisar os dados de vendas.
 
+## Acesso ao Dashboard Online
+
+Você pode acessar o dashboard online em [https://macalsr-dashboard-metas-dashboard-xv03xr.streamlit.app](https://macalsr-dashboard-metas-dashboard-xv03xr.streamlit.app) e explorar os dados em tempo real.
+
 ## Funcionalidades Principais
 
 - **Visualização de Dados**: O dashboard oferece uma variedade de gráficos interativos para visualizar o faturamento, tipos de produtos, faturamento por cidade, tipos de pagamento e avaliação média.
